@@ -14,3 +14,6 @@ else
 	alias l.='ls -d .* --color=auto'
 	alias ls='ls --color=auto'
 fi
+
+alias less='less --tabs=4'
+
