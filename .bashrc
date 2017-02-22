@@ -17,3 +17,5 @@ fi
 
 alias less='less --tabs=4'
 
+PS1='\u\[\e[0;35m\]@\[\e[m\]\h \[\e[0;32m\]\w\n \[\e[m\]\$ '
+
