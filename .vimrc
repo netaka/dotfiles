@@ -19,3 +19,6 @@ Plugin 'wakatime/vim-wakatime'
 
 call vundle#end()            " required
 filetype plugin indent on    " required
+
+inoremap <silent> jj <ESC>
+
